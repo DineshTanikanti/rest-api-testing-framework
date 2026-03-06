@@ -14,3 +14,5 @@ Test Coverage:
 - POST requests
 - Response validation
 - Status code verification
+
+Work in progress – automation test cases and API validation scripts being developed.
